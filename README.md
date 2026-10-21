@@ -1,4 +1,4 @@
-![Rezky Ramadhan Sagala](img/github-header-banner (1).png)
+![Rezky Ramadhan Sagala](img/github-header-banner.png)
 
 ---
 
